@@ -1,0 +1,5 @@
+venv/
+image_tags_app/*.pyc
+image_tags_app/__pycache__/
+image_tags_app/images_input/
+credentials.json
